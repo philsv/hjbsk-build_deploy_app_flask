@@ -1,2 +1,8 @@
 # Building and Deploying a Web App using Flask
-This is the repository for Building and web deploying applications using Flask.
+
+Final assignment for the course "Developing AI Applications with Python and Flask" by IBM on Coursera.
+
+## Author(s)
+
+* Abhishek Gagneja
+* Sina Nazeri
